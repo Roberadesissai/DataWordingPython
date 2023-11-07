@@ -12,7 +12,7 @@ This repository includes detailed examples and best practices for:
   
 - **List Comprehensions**: Master the art of list comprehensions for more concise and readable code.
   
-- **Other Comprehensions**: Dive into set and dictionary comprehensions to manipulate collections with ease.
+- **Dctionary Comprehensions**: Dive into set and dictionary comprehensions to manipulate collections with ease.
   
 - **Sorting Data**: Understand various methods to sort data, from simple lists to complex objects.
   
@@ -83,7 +83,3 @@ Stay connected with us through [LinkedIn](Your_LinkedIn_Profile) or [Twitter](Yo
 ---
 
 Dive into DataWordingPython and write data handling scripts that are not just functional but beautifully Pythonic! 📘🐍
-
----
-
-This README template is crafted to provide an introduction to the repository's purpose, guide users on how to get started, and encourage community contributions, all while maintaining a focus on Pythonic data manipulation.
